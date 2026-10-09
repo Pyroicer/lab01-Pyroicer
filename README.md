@@ -20,6 +20,7 @@ istant "where is the library?"
 ## Test
 
 pytest -q
+# -> 4 passed
 
 ## Project structure
 
