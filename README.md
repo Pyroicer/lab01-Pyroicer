@@ -15,12 +15,12 @@ Prerequisites: Python 3.10+, Git.
 ## Run
 
 istant "where is the library?"
- # -> Library: room B.201, open Mon-Sat 07:00-20:00.
+ -> Library: room B.201, open Mon-Sat 07:00-20:00.
 
 ## Test
 
 pytest -q
-# -> 4 passed
+-> 4 tests passed
 
 ## Project structure
 
